@@ -12,3 +12,6 @@ This clean elf assumes you are using ps5-kstuff, as it has an mprotect patch in 
 ## Building
 Building is pretty simple, if using the Visual Studio project, just hit Build -> Rebuild Solution.
 If using the vanilla project, just run `make`
+
+## Credits
+- [@DeathRGH](https://twitter.com/DeathRGH) For the original CleanELF vsproject, as well as the execution address / runid stuff
